@@ -150,3 +150,11 @@ Employee(id=9, name=Zhenishbek, position=CEO, salary=55000.0, hire_date=2023-02-
 Employee(id=10, name=Iman, position=Analyst, salary=48000.0, hire_date=2022-08-15)
 Employee(id=15, name=Aikusha, position=worker, salary=100000.0, hire_date=2025-04-01)
 ```
+# **Test case**
+<img width="955" alt="Снимок экрана 2025-04-01 в 12 32 34" src="https://github.com/user-attachments/assets/5f8fada0-9109-42ca-96ff-e07da5f70b03" />
+
+
+# **My Table**
+<img width="782" alt="Снимок экрана 2025-04-01 в 12 37 35" src="https://github.com/user-attachments/assets/854148a1-5386-4094-84c4-69127541f41d" />
+
+
